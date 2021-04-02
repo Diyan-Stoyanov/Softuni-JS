@@ -1,4 +1,3 @@
-##SoftUni
 My SoftUni courses ! 
 
 - Programming basics [certificate](https://softuni.bg/certificates/details/85383/d4fcad0a)
